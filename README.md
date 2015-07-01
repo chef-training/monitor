@@ -15,3 +15,9 @@ rake motd                # Verify motd file has content
 rake website             # Verify that a website is available (port 80)
 rake refactored_website  # Verify that a second website is available (port 81)
 ```
+
+## Installation
+
+```
+$ bundle install
+```
